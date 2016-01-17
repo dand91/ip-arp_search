@@ -183,8 +183,8 @@ public class ip_search extends Thread {
 
 					ipList.add(ipAddress + i);
 
-					//Might need to change to "arp" to get the right respons
-					String cmd = "arp -a " + ipAddress + i;
+					//Might need to change to "arp -a" to get the right respons
+					String cmd = "arp " + ipAddress + i;
 					String s = null;
 
 					try {
