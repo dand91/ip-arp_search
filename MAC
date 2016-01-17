@@ -1,0 +1,4 @@
+mac_address <space> name_of_device <newrow>
+
+fc:b4:e6:bf:b0:ba RaspberryPI1
+ff:e1:d2:af:b1:be RaspberryPI2
